@@ -1,0 +1,6 @@
+{
+  "name": "AuraGuard - Women & Child Safety",
+  "description": "Real-time safety tracking, instant emergency SOS alerts, automated geofence boundary alerts for trusted contacts, fake call simulator, and AI safety assistant.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
